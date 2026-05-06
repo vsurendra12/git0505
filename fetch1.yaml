@@ -1,1 +1,2 @@
 apiVersion: deployment
+kind: Deployment
